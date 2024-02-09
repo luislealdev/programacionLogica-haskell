@@ -10,3 +10,6 @@ palindro xs = xs == reverse xs
 
 interior xs = tail (init xs)
 
+finales n xs = drop (length xs - n) xs
+
+
