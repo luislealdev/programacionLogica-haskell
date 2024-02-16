@@ -1,0 +1,1 @@
+sumaMonedas a b c d e = a + (b*2) + (c*5) + (d*10) + (e*20)
